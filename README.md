@@ -3,9 +3,9 @@
 - Here is batch files for add and remove migrations, these files must be added in /src/ file
 - Here is the command structure for add thr migration:
 
-  ```console
-  .\Add-Migration [Project-Name] [Migration-Name]
-  ```
+```console
+.\Add-Migration [Project-Name] [Migration-Name]
+```
   
 - Here is the command structure for remove last migration:
 
