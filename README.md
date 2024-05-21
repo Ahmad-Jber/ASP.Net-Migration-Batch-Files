@@ -9,11 +9,13 @@
   
 - Here is the command structure for remove last migration:
 
-	'''console
-  .\Remove-Migration [Project-Name]
-  '''
+'''console
 
--These command found without files in NuGet Manager Console using EntityFrameworkCore, but you must to use the files in CMD or PowerShell.
+.\Remove-Migration [Project-Name]
+
+'''
+
+- These command found without files in NuGet Manager Console using EntityFrameworkCore, but you must to use the files in CMD or PowerShell.
 
 ## Requirements:
 
