@@ -1,4 +1,4 @@
-# ASP.Net-Migration-Batch-Files
+# Documentation
 
 - Here is batch files for add and remove migrations, these files must be added in /src/ file
 - Here is the command structure for add thr migration:
