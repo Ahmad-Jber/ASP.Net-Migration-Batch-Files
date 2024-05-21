@@ -1,0 +1,1 @@
+dotnet ef migrations add --project .\%1.EntityFrameworkCore\%1.EntityFrameworkCore.csproj  --startup-project .\%1.Web.Host\%1.Web.Host.csproj --context %1.EntityFrameworkCore.%1DbContext --configuration Debug --verbose %2 --output-dir Migrations
