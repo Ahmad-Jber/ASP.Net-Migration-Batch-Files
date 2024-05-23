@@ -1,19 +1,19 @@
 # Documentation
 
-- Here is batch files for add and remove migrations, these files must be added in /src/ file
-- Here is the command structure for add the migration:
+- These are batch files to add and remove migrations, these files must be added in: ###/src/file
+- Here is the command structure to add the migration:
 
 ```console
 .\Add-Migration [Project-Name] [Migration-Name]
 ```
   
-- Here is the command structure for remove last migration:
+- Here is the command structure to remove the last added migration:
 
 ```console
 .\Remove-Migration [Project-Name]
 ```
 
-- These command found without files in NuGet Manager Console using EntityFrameworkCore, but you must to use the files in CMD or PowerShell.
+- These commands found without using files in NuGet Manager Console using EntityFrameworkCore, but you must to use the files in CMD or PowerShell.
 
 ## Requirements:
 
